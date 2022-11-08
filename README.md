@@ -2,11 +2,7 @@
 
 # Datathon
 
-¡Bienvenidos al Datathon de Henry! Durante esta semana estarán poniendo en práctica sus habilidades en el campo de la predicción. Deberán usar cierta métrica para medir la performance del modelo y que, a su vez, será usada para elegir los mejores modelos.
-
-## Información relevante
-
-Esta datathon es una instancia de evaluación, por lo cual es INDIVIDUAL y OBLIGATORIO para los alumnos de Data Science de Henry. Se disponibilizará un google forms y pueden cargarse los resultados las veces que quieran. Es obligatorio que todos disponibilicen el código utilizado, para validar los modelos construidos.
+¡Bienvenidos al Datathon de Henry! Durante esta semana se hará uso de sus habilidades en el campo de la predicción. Se deberá usar cierta métrica para medir la performance del modelo y que, a su vez, será usada para elegir los mejores modelos.
 
 ## Logística del comercio mundial
 
@@ -50,9 +46,9 @@ Se proveen los archivos:
 
 ## Sugerencias
 
-- Exploren el dataset. Saquen medidas resumen, vean distribuciones de los datos, analicen bien el tipo de problema, etc.
-- Piensen que tipo de modelo podría ser aplicable según la descripción del problema y el tipo de variable de salida.
-- Busquen información sobre la métrica aplicada, cada métrica tiene pros y contras.
+- Explorar el dataset. Selección de medidas resumen, visualización de las distribuciones de los datos, análisis del tipo de problema, etc.
+- Selección del tipo de modelo aplicable según la descripción del problema y el tipo de variable de salida.
+- Buscar información sobre la métrica aplicada, teniendo en cuenta que cada métrica tiene pros y contras.
 - En cuanto a la utilización de git, recuerden que si quieren hacer un cambio experimental pero no quieren romper el modelo, pueden utilizar [branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 - Aprovechen esta instancia de aprendizaje, experimenten y, sobre todo, diviértanse!
 
